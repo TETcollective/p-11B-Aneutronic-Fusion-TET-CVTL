@@ -1,0 +1,86 @@
+
+
+
+# Python general
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# PyCharm / IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# LaTeX temporary files
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+*.toc
+*.lof
+*.lot
+*.idx
+*.ilg
+*.ind
+*.gz
+*.pdfsync
+*.bak
+*.backup
+
+# Generated PDFs (opzionale: se non vuoi versionare i PDF compilati)
+*.pdf
+
+# QuTiP / simulation outputs (opzionale: se generi molte figure)
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.svg
+*.pdf
+*.mp4
+*.avi
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Personal notes or temporary files
+*.tmp
+*.temp
+todo.txt
+notes.txt
