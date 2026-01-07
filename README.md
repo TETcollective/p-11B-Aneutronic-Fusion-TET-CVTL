@@ -22,7 +22,7 @@ DOI Zenodo (when published): [insert here]
 - `p11B_fusion_catalysis.pdf` – full preprint  
 - `p11B_fusion_catalysis.tex` – LaTeX source  
 - `p11B_fusion_simulation.py` – QuTiP code for p-¹¹B enhancement  
-- `figures/` – additional diagrams (Coulomb barrier, laser-plasma setups)  
+-  ![p-¹¹B Fusion Enhancement](p11B_fusion_enhancement.png)
 
 ## License
 This work is released under **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**.
